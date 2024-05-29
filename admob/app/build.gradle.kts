@@ -49,7 +49,7 @@ android {
 dependencies {
     implementation(project(":internal:lintchecks"))
     implementation(project(":internal:chooserx"))
-    implementation("androidx.appcompat:appcompat:1.6.1")
+    implementation("androidx.appcompat:appcompat:1.7.0")
     implementation("com.google.android.material:material:1.12.0")
     implementation("androidx.browser:browser:1.5.0")
     implementation("androidx.navigation:navigation-fragment-ktx:2.7.7")
